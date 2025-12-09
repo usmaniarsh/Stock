@@ -1,0 +1,5 @@
+plotly
+Torch
+transformers
+AutoTokenizer
+sentencepiece
